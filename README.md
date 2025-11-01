@@ -1,1 +1,4 @@
-# ImageCaptioningModel
+# Image Captioning Model
+
+This is a multimodal AI task that combines computer vision and natural language processing (NLP) to automatically generate descriptive textual captions for input images with the use of CNN (Convolutional Neural Network) for image feature extraction and LSTM (Long Short-Term Memory, a type of RNN) for sequence generation.
+Image captioning addresses the challenge of bridging visual and textual understanding in AI systems. Manually describing images (e.g., for accessibility tools, search engines, or social media) is labor-intensive and inconsistent. The problem is to create a model that can interpret visual content (objects, scenes, actions) and generate coherent, natural-language descriptions (e.g., "A dog chasing a frisbee in a park"). This is crucial for applications like aiding visually impaired users, automating content tagging, or enhancing e-commerce product descriptions. Traditional rule-based methods fail on complex scenes, so deep learning provides a data-driven solution.
